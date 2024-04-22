@@ -23,6 +23,7 @@ This application provides a way to record this information and to access these i
 ![WhatsApp Image 2024-04-22 at 11 34 34_6ab6ec03](https://github.com/23012653/LAB-4-Hospital-Management/assets/150777517/7367472d-3e54-4bd5-b3ed-b848877a241f)
 
 ### CLASS DIAGRAM
+![WhatsApp Image 2024-04-22 at 11 42 19_5ee04640](https://github.com/23012653/LAB-4-Hospital-Management/assets/150777517/00a5b184-2523-4bd6-a00c-610151ee829b)
 
 ### ACTIVITY DIAGRAM
 ![WhatsApp Image 2024-04-22 at 11 35 24_ed47ffcb](https://github.com/23012653/LAB-4-Hospital-Management/assets/150777517/c186aa97-046b-4b6d-af89-4c18fdaf793f)
