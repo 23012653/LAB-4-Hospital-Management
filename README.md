@@ -37,7 +37,7 @@ This application provides a way to record this information and to access these i
 ### STATECHART DIAGRAM
 ![image](https://github.com/23012653/LAB-4-Hospital-Management/assets/150777517/cafb13ea-c235-405f-ac2f-42de8789e0fd)
 
-### PACKAGE DIAGRAMV
+### PACKAGE DIAGRAM
 ![WhatsApp Image 2024-04-22 at 11 34 58_c76202f3](https://github.com/23012653/LAB-4-Hospital-Management/assets/150777517/08c69a98-8111-41dc-a3ee-00afadf3899a)
 
 
